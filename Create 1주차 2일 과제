@@ -1,0 +1,18 @@
++ #1주차 과제
++
++ #001
++ print("Hellow World")
++
++ #002
++ print("Mary\'s cosmetics")
++
++ #003
++ print("신씨가 소리질렀다. \"도둑이야\".")
++
++
++ #004
++ a='"C:\Windows"'
+  print(a)
+
++#005
++print(5/3)
